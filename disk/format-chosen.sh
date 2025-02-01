@@ -14,7 +14,7 @@ root_check
 check_distro_version
 check_multiverse
 
-MOUNT_=/mnt/$POOLNAME
+MOUNT_=/mnt
 
 # Needed for partprobe
 install_if_not parted
