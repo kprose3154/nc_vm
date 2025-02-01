@@ -4,6 +4,9 @@ Nextcloud VM Appliance
 Server installation. Simplified. :cloud:
 --------------------------------
 
+NOTE: Customizing scripts to fit my environment like making mount the ZFS directory etc.
+I'm kind of mad at this system as it deleted my data (I should have has a backup) while trying to rebuild Nextcloud.
+
 #### Interactive Guidance
 > **The Nextcloud VM** — _(aka **N**ext**c**loud **V**irtual **M**achine_ or _**NcVM**)_ — helps you create a personal or corporate [Nextcloud Server] _faster_ and _easier._ Fundamentally, NcVM is a carefully crafted _family_ of [\*nix] scripts which interactively guide you through a quality-controlled installation to obtain an [A+ security-rated] Nextcloud instance.
 
