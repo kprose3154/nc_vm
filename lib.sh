@@ -14,8 +14,8 @@ true
 SCRIPTS=/var/scripts
 HTML=/var/www
 NCPATH="$HTML"/nextcloud
-POOLNAME=ncdata
-NCDATA=/mnt/"$POOLNAME"
+POOLNAME=data
+NCDATA=/mnt/ncdata
 SNAPDIR=/var/snap/spreedme
 GPGDIR=/tmp/gpg
 SHA256_DIR=/tmp/sha256
