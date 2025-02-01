@@ -361,7 +361,7 @@ $MENU_GUIDE" "$WT_HEIGHT" "$WT_WIDTH" 4 \
 done
 
 # Install PostgreSQL
-apt-get update -q4 & spinner_loading
+apt-get update & spinner_loading
 install_if_not postgresql
 
 # Create DB
